@@ -1,4 +1,3 @@
-// Created by 黑马程序员.
 #include "iostream"
 #include "cstring"      // C 语言的字符串库
 using namespace std;
