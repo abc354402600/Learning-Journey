@@ -11,6 +11,6 @@
 		
 ## 3.常见的变量类型
 	int age;		//整型
-	float height;	//实型
+	float height;		//实型
 	char c;			//字符型
 	string str;		//字符串型
